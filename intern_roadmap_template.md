@@ -4,7 +4,7 @@
 Welcome to the **Data Science Internship Program**!  
 This space is designed to help you reflect on who you are, define your goals, and track your growth throughout the internship.
 
-Take time to fill in each section honestly and thoughtfully — this roadmap will help you (and your mentors) understand your journey and support your learning goals.
+Take time to fill in each section honestly and thoughtfully, this roadmap will help you (and your mentors) understand your journey and support your learning goals.
 
 ---
 
@@ -16,7 +16,7 @@ Take time to fill in each section honestly and thoughtfully — this roadmap wil
 - **Something unique about you:**  
 - **Why did you choose data science?**  
 
-> ✨ *Tip: Share what excites you about data — is it problem-solving, research, innovation, or storytelling with data?*
+> ✨ *Tip: Share what excites you about data, is it problem-solving, research, innovation, or storytelling with data?*
 
 ---
 
@@ -41,7 +41,7 @@ Examples:
 ## 🚀 LONG-TERM GOALS (6–12 Months and Beyond)
 
 > *Where do you see yourself after this internship?*  
-> These goals can go beyond technical skills — think about your career direction, further learning, or research interests.
+> These goals can go beyond technical skills - think about your career direction, further learning, or research interests.
 
 Examples:
 - Become proficient in machine learning.  
@@ -59,13 +59,13 @@ Examples:
 ## 🗺️ DEFINE YOUR ROADMAP
 
 > *Outline the path you plan to take to reach your goals.*  
-> You can think of this as your “plan of action” — what steps, habits, or learning paths will help you progress?
+> You can think of this as your “plan of action” - what steps, habits, or learning paths will help you progress?
 
 Example roadmap:
 1. Complete the Python and data analysis modules.  
 2. Participate in at least two mini-projects.  
 3. Attend all team review sessions and ask questions.  
-4. Collaborate with peers on a data storytelling challenge.  
+4. Collaborate with peers.  
 5. Document all learning milestones in GitHub.
 
 **My roadmap:**
@@ -93,7 +93,7 @@ Example roadmap:
 
 ## ✨ REFLECTION SPACE
 
-> Use this section to jot down what you learn each week — wins, challenges, or “aha” moments.
+> Use this section to jot down what you learn each week - wins, challenges, or “aha” moments.
 
 **Week 1:**  
 **Week 2:**  
@@ -101,7 +101,5 @@ Example roadmap:
 ...
 
 ---
-
-### 💬 Final Note
-This roadmap is *yours* — own it, update it, and revisit it regularly.  
+ 
 Your growth in data science is a journey, and every small milestone counts. 🌿
